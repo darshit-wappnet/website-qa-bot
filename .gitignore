@@ -1,0 +1,10 @@
+.env
+chroma_db
+env
+scraped_data
+langchain_scraped_data
+langchain_scraped_data.txt
+qa_system.txt
+embedding_cache
+langchain_scraper.txt
+.git
