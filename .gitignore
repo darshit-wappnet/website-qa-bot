@@ -1,5 +1,4 @@
 .env
-chroma_db
 env
 scraped_data
 langchain_scraped_data
@@ -8,3 +7,6 @@ qa_system.txt
 embedding_cache
 langchain_scraper.txt
 .git
+chat_interface_ui.txt
+z.py
+qa_sources.log
