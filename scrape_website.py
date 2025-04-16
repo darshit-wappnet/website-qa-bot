@@ -75,7 +75,7 @@ def main():
     
     print("Starting web scraping process...")
     
-   
+    print(f"Fetching sitemap from {sitemap_url}...")
     urls = get_urls_from_sitemap(sitemap_url)
     print(f"Found {len(urls)} URLs in sitemap")
     
